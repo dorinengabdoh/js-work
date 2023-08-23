@@ -6,8 +6,6 @@
 // }
 // console.log(x);
 
-
-
 let n = 8,ans="";
 for(let i=0; i<n; i++){
   for(j=i; j<n; j++){
